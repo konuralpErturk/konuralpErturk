@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am working as a senior software specialist at Cybesoft company.
+I am working as a software development team lead at Cybesoft company.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/konuralp-e-28b7b0205/) 
