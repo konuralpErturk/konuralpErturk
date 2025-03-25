@@ -5,17 +5,13 @@
 
 :mailbox: How to reach me: <a href="mailto:konuralp.erturk01@gmail.com">konuralp.erturk01@gmail.com</a>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=konura&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Konuralp's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=konuralpErturk&theme=github_dark&layout=compact&hide_border=true" /></a> |
-| ------------- | ------------- |
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=konuralpErturk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=konuralpErturk&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=konuralpErturk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## Top repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=kahoot-monkey&theme=github_dark)](https://github.com/kevinfengcs88/kahoot-monkey)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=crud-list&theme=github_dark)](https://github.com/kevinfengcs88/crud-list)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=kevinfeng.ga&theme=github_dark)](https://github.com/kevinfengcs88/kevinfeng.ga)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=portfolio-template&theme=github_dark)](https://github.com/kevinfengcs88/portfolio-template)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=python-projects&theme=github_dark)](https://github.com/kevinfengcs88/python-projects)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=osrs-projects&theme=github_dark)](https://github.com/kevinfengcs88/osrs-projects)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=piercetheheavens.ga&theme=github_dark)](https://github.com/kevinfengcs88/piercetheheavens.ga)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=morse-learner&theme=github_dark)](https://github.com/kevinfengcs88/morse-learner)
 
 
