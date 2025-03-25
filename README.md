@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/konuralp-e-28b7b0205/)
 
-:mailbox: How to reach me: <a href="mailto:konuralp.erturk01@gmail.com">kevinfeng.cs88@gmail.com</a>
+:mailbox: How to reach me: <a href="mailto:konuralp.erturk01@gmail.com">konuralp.erturk01@gmail.com</a>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinfengcs88&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Kevin's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinfengcs88&theme=github_dark&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
